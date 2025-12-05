@@ -118,10 +118,6 @@ Reply with ONLY a 5-letter word:
 - **WandB Dashboard**: [https://wandb.ai/gbalaji27/llm-wordle-comp](https://wandb.ai/gbalaji27/llm-wordle-comp)
 - **Competition Page**: [Wordle/Fibble LLM Competition](https://github.com/drchangliu/game-ai-sidekick/tree/main/wordle-fibble-LLM-competition)
 
-## 📝 License
-
-MIT License
-
 ## 🙏 Acknowledgments
 
 - Competition hosted by Dr. Chang Liu
